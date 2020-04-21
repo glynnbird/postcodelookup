@@ -1,0 +1,28 @@
+{
+  "name": "postcodelookup",
+  "version": "1.0.0",
+  "description": "Postcode lookup utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glynnbird/postcodelookup.git"
+  },
+  "keywords": [
+    "postcode",
+    "uk",
+    "nodejs"
+  ],
+  "author": "Glynn Bird <glynn.bird@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/glynnbird/postcodelookup/issues"
+  },
+  "homepage": "https://github.com/glynnbird/postcodelookup#readme",
+  "devDependencies": {
+    "line-by-line": "^0.1.6"
+  }
+}
