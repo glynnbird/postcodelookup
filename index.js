@@ -1,7 +1,7 @@
 
 const path = require('path')
 
-const main = ({pc}) => {
+const main = (pc) => {
 
   // normalise
   pc = pc.toUpperCase().replace(/[^A-Z0-9]/g, '')
